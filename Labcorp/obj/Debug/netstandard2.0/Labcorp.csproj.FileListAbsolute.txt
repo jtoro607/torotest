@@ -1,0 +1,14 @@
+C:\Users\jt\source\repos\Labcorp\Labcorp\bin\Debug\netstandard2.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\jt\source\repos\Labcorp\Labcorp\bin\Debug\netstandard2.0\xunit.runner.reporters.net452.dll
+C:\Users\jt\source\repos\Labcorp\Labcorp\bin\Debug\netstandard2.0\xunit.runner.utility.net452.dll
+C:\Users\jt\source\repos\Labcorp\Labcorp\bin\Debug\netstandard2.0\xunit.abstractions.dll
+C:\Users\jt\source\repos\Labcorp\Labcorp\bin\Debug\netstandard2.0\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
+C:\Users\jt\source\repos\Labcorp\Labcorp\bin\Debug\netstandard2.0\SpecFlow.Autofac.SpecFlowPlugin.dll
+C:\Users\jt\source\repos\Labcorp\Labcorp\bin\Debug\netstandard2.0\Labcorp.deps.json
+C:\Users\jt\source\repos\Labcorp\Labcorp\bin\Debug\netstandard2.0\Labcorp.dll
+C:\Users\jt\source\repos\Labcorp\Labcorp\bin\Debug\netstandard2.0\Labcorp.pdb
+C:\Users\jt\source\repos\Labcorp\Labcorp\obj\Debug\netstandard2.0\Labcorp.csproj.CoreCompileInputs.cache
+C:\Users\jt\source\repos\Labcorp\Labcorp\obj\Debug\netstandard2.0\Labcorp.AssemblyInfoInputs.cache
+C:\Users\jt\source\repos\Labcorp\Labcorp\obj\Debug\netstandard2.0\Labcorp.AssemblyInfo.cs
+C:\Users\jt\source\repos\Labcorp\Labcorp\obj\Debug\netstandard2.0\Labcorp.dll
+C:\Users\jt\source\repos\Labcorp\Labcorp\obj\Debug\netstandard2.0\Labcorp.pdb

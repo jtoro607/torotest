@@ -1,0 +1,9 @@
+C:\Users\jt\source\repos\Labcorp\LabcorpPOMs\bin\Debug\netstandard2.0\LabcorpPOMs.deps.json
+C:\Users\jt\source\repos\Labcorp\LabcorpPOMs\bin\Debug\netstandard2.0\LabcorpPOMs.dll
+C:\Users\jt\source\repos\Labcorp\LabcorpPOMs\bin\Debug\netstandard2.0\LabcorpPOMs.pdb
+C:\Users\jt\source\repos\Labcorp\LabcorpPOMs\obj\Debug\netstandard2.0\LabcorpPOMs.csprojAssemblyReference.cache
+C:\Users\jt\source\repos\Labcorp\LabcorpPOMs\obj\Debug\netstandard2.0\LabcorpPOMs.csproj.CoreCompileInputs.cache
+C:\Users\jt\source\repos\Labcorp\LabcorpPOMs\obj\Debug\netstandard2.0\LabcorpPOMs.AssemblyInfoInputs.cache
+C:\Users\jt\source\repos\Labcorp\LabcorpPOMs\obj\Debug\netstandard2.0\LabcorpPOMs.AssemblyInfo.cs
+C:\Users\jt\source\repos\Labcorp\LabcorpPOMs\obj\Debug\netstandard2.0\LabcorpPOMs.dll
+C:\Users\jt\source\repos\Labcorp\LabcorpPOMs\obj\Debug\netstandard2.0\LabcorpPOMs.pdb
